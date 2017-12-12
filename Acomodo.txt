@@ -1,0 +1,18 @@
+Piston:
+Cable verde - Cable rojo
+Cable azul - Cable negro
+
+Reelevadores:
+1 izq: pin3
+2 izq: GND
+1 der: pin2
+2 der: GND
+
+Reloj:
+GND: GND
+VCC: 5v
+SDA: SDA
+SCL: SCL
+
+Sensor - pin5
+Buzzer - pin6
